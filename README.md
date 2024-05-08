@@ -40,7 +40,8 @@ Output: 6 (the subarray is {2, 3})
 ---
 
 You are also given a tester. Compile the object file given with your file.
-
+```
 $> cc -c maxProduct.c -o maxProduct.o
 $> cc maxProduct.o tester.o -o test
+```
 
