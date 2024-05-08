@@ -18,10 +18,9 @@ You don't have to follow the norm.
 
 Your algorithm will be tested against the other teams.
 
-Note: You were provided a maxProduct.o file, you can find Adrian's compiled solution there. Test with it in case of doubts.
+---
 
-
-Main examople:
+Main example:
 ```
 #include <stdio.h>
 
@@ -38,6 +37,7 @@ int main() {
 ```
 Output: 6 (the subarray is {2, 3})
 
+---
 
 You are also given a tester. Compile the object file given with your file.
 
