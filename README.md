@@ -22,7 +22,7 @@ Note: You were provided a maxProduct.o file, you can find Adrian's compiled solu
 
 
 Main examople:
-
+```
 #include <stdio.h>
 
 int maxProductSubarray(int nums[], int n) {
@@ -35,7 +35,7 @@ int main() {
     printf("Maximum product subarray: %d\n", maxProductSubarray(nums, n));
     return 0;
 }
-
+```
 Output: 6 (the subarray is {2, 3})
 
 
